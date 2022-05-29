@@ -1,0 +1,28 @@
+html {
+  background-color: rgba(126, 252, 0, 0.76);
+  border-radius: 100px;
+}
+
+body {
+  background-color: lemonchiffon;
+  padding: 15px;
+  margin-left: blue;
+}
+
+h1 {
+  font-style: sans-serif;
+  color: skyblue;
+  padding: inherit;
+  border-radius: unset;
+}
+
+p {
+  color: rgba(255, 0, 0, 0.404);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+html {
+  background-color: rgb(145, 255, 0);
+  border-radius: 10px;
+}
